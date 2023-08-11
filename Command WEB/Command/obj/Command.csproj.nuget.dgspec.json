@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduarda.matias\\source\\repos\\Command\\Command\\Command.csproj": {}
+    "C:\\Users\\eduarda.matias\\source\\repos\\TP01\\Command WEB\\Command\\Command.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduarda.matias\\source\\repos\\Command\\Command\\Command.csproj": {
+    "C:\\Users\\eduarda.matias\\source\\repos\\TP01\\Command WEB\\Command\\Command.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduarda.matias\\source\\repos\\Command\\Command\\Command.csproj",
+        "projectUniqueName": "C:\\Users\\eduarda.matias\\source\\repos\\TP01\\Command WEB\\Command\\Command.csproj",
         "projectName": "Command",
-        "projectPath": "C:\\Users\\eduarda.matias\\source\\repos\\Command\\Command\\Command.csproj",
+        "projectPath": "C:\\Users\\eduarda.matias\\source\\repos\\TP01\\Command WEB\\Command\\Command.csproj",
         "packagesPath": "C:\\Users\\eduarda.matias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduarda.matias\\source\\repos\\Command\\Command\\obj\\",
+        "outputPath": "C:\\Users\\eduarda.matias\\source\\repos\\TP01\\Command WEB\\Command\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduarda.matias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
