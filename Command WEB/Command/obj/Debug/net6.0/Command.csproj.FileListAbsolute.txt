@@ -1,0 +1,89 @@
+C:\Users\eduarda.matias\source\repos\Command\Command\bin\Debug\net6.0\Command.exe
+C:\Users\eduarda.matias\source\repos\Command\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\eduarda.matias\source\repos\Command\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\eduarda.matias\source\repos\Command\Command\bin\Debug\net6.0\Command.dll
+C:\Users\eduarda.matias\source\repos\Command\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\Command.dll
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Users\eduarda.matias\source\repos\Command\Command\obj\Debug\net6.0\ref\Command.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Command.exe
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Command.deps.json
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Command.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Command.pdb
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\SuperSocket.Common.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\SuperSocket.Facility.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\SuperSocket.SocketBase.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\SuperSocket.SocketEngine.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\SuperWebSocket.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.HostFiltering.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.HttpOverrides.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IIS.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.csproj.CopyComplete
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\refint\Command.dll
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.pdb
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+D:\IFSP\3 ano\2 semestre\SWII6\TP01_SW2-master\Command WEB\Command\obj\Debug\net6.0\ref\Command.dll
